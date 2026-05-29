@@ -3,7 +3,7 @@ UX Research — GitHub Open Source Frustrations · BTech CSE
 
 my figma file link :
 1) https://www.figma.com/board/bJFPtQCtPAH5wERBzdGY4A/UX-Research-%E2%80%94-GitHub-Open-Source?node-id=0-1&t=oyWQlNGr4iEsRq07-1
-
+2) design wireframe link: https://www.figma.com/design/cz8Dx5e897CsJ0xC2uxazs/UX-Research-%E2%80%94-GitHub-Open-Source?node-id=0-1&t=8uRKReXdewaXw5bU-1
 
 
 # UX Research: GitHub Open Source Contribution Experience
